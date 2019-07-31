@@ -2,7 +2,7 @@
 vue移动端支付密码窗插件，仿支付宝密码框。
 
 ### demo地址
-[demo演示页面](https://ZhangXDong.github.io/keyboard/dist/#/, '支付密码弹窗demo演示页面')
+[demo演示页面](https://zhangxdong.github.io/zxd-pay-keyboard/dist/index.html, '支付密码弹窗demo演示页面')
 
 ### 动态图演示
 
